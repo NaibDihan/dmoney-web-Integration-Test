@@ -11,7 +11,8 @@
 - ``` git clone <repo_url> ```
 - ``` npm i ```
 - ``` add the .env file (on request) ```
-- ``` node repote.js ```
+- ``` node repote.js ``` or
+- ``` npm test ```
 
 ## Documentation:
 https://documenter.getpostman.com/view/35240869/2sA3QwaouA
