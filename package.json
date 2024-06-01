@@ -1,7 +1,7 @@
 {
   "name": "dmoney-web-integration-test-newman",
   "version": "1.0.0",
-  "description": "",
+  "description": "- NodeJS (Latest LTS)\r - Newman\r - newman-html-extra",
   "main": "index.js",
   "scripts": {
     "test": "node report.js"
