@@ -14,11 +14,16 @@
 - ``` node repote.js ``` or
 - ``` npm test ```
 
+## Test Cases and Bug Report:
+- Drive link : https://drive.google.com/drive/folders/1DSTMifcpp8fiO8NHa1cfXF3WfynXqe_k?usp=sharing
+
 ## Documentation:
 https://documenter.getpostman.com/view/35240869/2sA3QwaouA
 
 ## Output:
-![image](https://github.com/NaibDihan/dmoney-web-Integration-Test/assets/80912556/9d5971cc-635a-4988-93c8-2960a4799fb1)
+![image](https://github.com/NaibDihan/dmoney-web-Integration-Test/assets/80912556/decb4a36-1a25-4089-9953-e32f877a1cd9)
+
+
 
 
 
